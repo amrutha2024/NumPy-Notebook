@@ -23,3 +23,6 @@ using conda:
 
 conda install numpy
 
+
+## Documentation
+For more detailed information, check out the NumPy documentation.
